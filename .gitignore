@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Dev stubs
+dev_stubs/
+
+# IDE
+.idea/
+.vscode/
+
+# Package build output
+*.ipk
+*.deb
+*.tar.gz
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
